@@ -1,0 +1,162 @@
+@import url("font.css");
+html {
+    height: 100%;
+    margin: auto;
+}
+
+#btns {
+    border-radius: 30px;
+    width: 210px;
+    height: 35px;
+    font-size: 18px;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.jumbotron {
+    background-color: #0A0E11;
+    height: 673px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Miss Fajardose', cursive;
+    font-weight: 800;
+    font-size: 5em;
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Butterfly Kids', cursive;
+    font-weight: 800;
+    font-size: 2em;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 30px;
+    padding-top: 4px;
+    text-align: left;
+}
+
+.post-container {
+    margin: 20px 20px 0 0;
+    overflow: auto
+}
+
+.post-thumb {
+    float: left;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 250px;
+    widows: 250px;
+}
+
+.post-content {
+    margin-left: 350px;
+    text-align: justify;
+    font-size: 21px;
+    font-weight: 600;
+    align-content: center;
+    padding-right: 60px;
+}
+
+.fonts {
+    font-family: 'Exo 2', sans-serif;
+    color: #838383;
+}
+
+hr {
+    margin-top: 50px;
+    width: 1200px;
+    color: #009ca8;
+    height: 30px;
+    border-width: 1px 0 0 0;
+}
+
+.luv {
+    font-size: 17px;
+    text-align: center;
+}
+
+.about {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 55px;
+    font-weight: 300;
+    padding-left: 350px;
+}
+
+.under {
+    font-size: 1.2em;
+    color: black;
+    padding-bottom: 30px;
+}
+
+.numbers-inner-wrapper {
+    max-width: 1150px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+
+.numbers-inner-wrapper div {
+    display: inline-block;
+    width: 24.5%;
+    text-align: center;
+}
+
+.numbers-wrapper h4 {
+    font-size: 4rem;
+    color: #009ca8;
+    font-weight: 700;
+}
+
+.projects {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 4em;
+}
+
+.slide {
+    height: 400px;
+    width: 800px;
+    align-content: center;
+    margin-top: 150px;
+}
+
+.blr {
+    filter: blur(3px);
+}
+
+.carousel-caption {
+    color: red;
+}
+
+.quotes {
+    height: 673px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.imgqo {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.hqo {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15px;
+}
